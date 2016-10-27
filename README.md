@@ -1,2 +1,2 @@
 # machine-learning
-Machine Learing course assignments and projects
+Course assignments and projects.
